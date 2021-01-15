@@ -11,9 +11,9 @@
 
 ## Ex of Markdown code
 An ordered list:
-1.One
-1.Two
-1.Three
+1. One
+1. Two
+1. Three
 A list within a list:
 * Here is my list
   * and here we have sub list
