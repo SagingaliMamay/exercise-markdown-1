@@ -21,12 +21,14 @@ Here is our ordered list:
 
 A list within a list:
 
-* Here is my list
+* Here is our list
   * and here we have sub list
   * one more line
 
 Here is our animated image:
+
 ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 Useful link [README.md:]((https://github.com/Doomsmash/exercise-markdown/blob/Main/README.md))
 
