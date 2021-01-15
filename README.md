@@ -3,7 +3,7 @@
 ## Who has done the project?
 
 * Thomas @Doomsmash
-* Sagingali
+* @Sagingali
 
 ## Description
 
